@@ -1,7 +1,7 @@
 pipeline {
   agent any
 
-//   stages {
+  stages {
 //         stage('Load Artifact - dev') {
 //             when { anyOf {branch "dev"} }
 //             steps {
